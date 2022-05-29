@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   16196a79c5af415081016facdca97653:
     parts: {}
+    work_id: D4073
     span:
-    - vol: 78
+    - base: cd8e
       start: 0
       end: 22383
-    work_id: D4073
